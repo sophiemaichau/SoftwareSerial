@@ -32,8 +32,6 @@ http://arduiniana.org.
 #ifndef SoftwareSerial_h
 #define SoftwareSerial_h
 
-#include <inttypes.h>
-
 /******************************************************************************
 * Definitions
 ******************************************************************************/
