@@ -38,7 +38,6 @@ http://arduiniana.org.
 // 
 // Includes
 // 
-#include "Arduino.h"
 #include "SoftwareSerial.h"
 //
 // Lookup table
