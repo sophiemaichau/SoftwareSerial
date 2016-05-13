@@ -33,7 +33,6 @@ http://arduiniana.org.
 #define SoftwareSerial_h
 
 #include <inttypes.h>
-#include <Stream.h>
 
 /******************************************************************************
 * Definitions
